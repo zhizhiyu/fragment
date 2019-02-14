@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd5ccb67-78f9-4913-bd94-4d77b8854a1b" name="Default Changelist" comment="" />
+    <list default="true" id="fd5ccb67-78f9-4913-bd94-4d77b8854a1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fragment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fragment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GetRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GetRoom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveRoom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/28443e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/28443e-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/fbeca6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/fbeca6-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/58/5855bf544d4b8e84790a8078ed21dadd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/58/5855bf544d4b8e84790a8078ed21dadd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ca/ca94703d0c771c94c95bcc35af546927" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ca/ca94703d0c771c94c95bcc35af546927" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,18 +36,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GetRoom.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state relative-caret-position="400">
+              <caret line="36" column="117" selection-start-line="36" selection-start-column="117" selection-end-line="36" selection-end-column="117" />
               <folding>
-                <marker date="1550079789602" expanded="true" signature="6:32" ph="..." />
-                <marker date="1550079789602" expanded="true" signature="124:1275" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="276:331" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="350:384" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="407:1273" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="455:1267" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="481:1083" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="754:1069" ph="{...}" />
-                <marker date="1550079789602" expanded="true" signature="1135:1257" ph="{...}" />
+                <marker date="1550138493132" expanded="false" signature="6:32" ph="..." />
+                <marker date="1550138493132" expanded="true" signature="124:1490" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="314:369" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="388:422" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="445:1488" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="493:1482" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="519:1298" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="792:1284" ph="{...}" />
+                <marker date="1550138493132" expanded="true" signature="1350:1472" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,20 +56,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveRoom.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="551">
+              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
-                <marker date="1550080046855" expanded="true" signature="99:1239" ph="{...}" />
-                <marker date="1550080046855" expanded="true" signature="386:439" ph="{...}" />
-                <marker date="1550080046855" expanded="true" signature="458:493" ph="{...}" />
-                <marker date="1550080046855" expanded="true" signature="517:1237" ph="{...}" />
-                <marker date="1550080046855" expanded="true" signature="1077:1231" ph="{...}" />
+                <marker date="1550139581162" expanded="true" signature="6:67" ph="..." />
+                <marker date="1550139581162" expanded="true" signature="189:1542" ph="{...}" />
+                <marker date="1550139581162" expanded="true" signature="615:782" ph="{...}" />
+                <marker date="1550139581162" expanded="true" signature="801:836" ph="{...}" />
+                <marker date="1550139581162" expanded="true" signature="860:1539" ph="{...}" />
+                <marker date="1550139581162" expanded="true" signature="1309:1533" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveRoom.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +93,7 @@
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -75,11 +103,11 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,11 +153,13 @@
       <updated>1550058198795</updated>
       <workItem from="1550058220108" duration="49000" />
       <workItem from="1550071728851" duration="4020000" />
+      <workItem from="1550114504436" duration="3600000" />
+      <workItem from="1550131938352" duration="7749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4069000" />
+    <option name="totallyTimeSpent" value="15418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,12 +173,11 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Unity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -163,6 +192,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -189,32 +219,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GetRoom.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="400">
+          <caret line="36" column="117" selection-start-line="36" selection-start-column="117" selection-end-line="36" selection-end-column="117" />
           <folding>
-            <marker date="1550079789602" expanded="true" signature="6:32" ph="..." />
-            <marker date="1550079789602" expanded="true" signature="124:1275" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="276:331" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="350:384" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="407:1273" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="455:1267" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="481:1083" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="754:1069" ph="{...}" />
-            <marker date="1550079789602" expanded="true" signature="1135:1257" ph="{...}" />
+            <marker date="1550138493132" expanded="false" signature="6:32" ph="..." />
+            <marker date="1550138493132" expanded="true" signature="124:1490" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="314:369" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="388:422" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="445:1488" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="493:1482" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="519:1298" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="792:1284" ph="{...}" />
+            <marker date="1550138493132" expanded="true" signature="1350:1472" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveRoom.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="551">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding>
-            <marker date="1550080046855" expanded="true" signature="99:1239" ph="{...}" />
-            <marker date="1550080046855" expanded="true" signature="386:439" ph="{...}" />
-            <marker date="1550080046855" expanded="true" signature="458:493" ph="{...}" />
-            <marker date="1550080046855" expanded="true" signature="517:1237" ph="{...}" />
-            <marker date="1550080046855" expanded="true" signature="1077:1231" ph="{...}" />
+            <marker date="1550139581162" expanded="true" signature="6:67" ph="..." />
+            <marker date="1550139581162" expanded="true" signature="189:1542" ph="{...}" />
+            <marker date="1550139581162" expanded="true" signature="615:782" ph="{...}" />
+            <marker date="1550139581162" expanded="true" signature="801:836" ph="{...}" />
+            <marker date="1550139581162" expanded="true" signature="860:1539" ph="{...}" />
+            <marker date="1550139581162" expanded="true" signature="1309:1533" ph="{...}" />
           </folding>
         </state>
       </provider>
