@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 /*这段脚本用来点击获取拼图房间*/
 [RequireComponent(typeof(Camera))]

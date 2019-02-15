@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Xml.Linq;
-using UnityEngine;
+﻿using UnityEngine;
 
 /*这段脚本用来移动房间*/
 [DisallowMultipleComponent]
@@ -21,6 +19,7 @@ public class MoveRoom : MonoBehaviour
         self = GetComponent<MoveRoom>();
         realRigidbody = real.GetComponent<Rigidbody2D>();
         realTransform = real.GetComponent<Transform>();
+        self.enabled = false;
     }
 
     void Update()
@@ -45,5 +44,7 @@ public class MoveRoom : MonoBehaviour
             self.enabled = false;
         }
     }
+    
+    
 
 }

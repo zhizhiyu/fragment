@@ -5,7 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - Room
-  - Wall
   layers:
   - Default
   - TransparentFX
@@ -16,8 +15,8 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
+  - Piece
+  - Room
   - 
   - 
   - 
@@ -43,9 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Unreal
+  - name: Piece
     uniqueID: 1674238555
     locked: 0
   - name: Real
     uniqueID: 1880267261
+    locked: 0
+  - name: Player
+    uniqueID: 2658431229
     locked: 0
