@@ -7,8 +7,11 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="CameraMove.cs" t="Include" />
+          <e p="FollowCursor.cs" t="Include" />
           <e p="GetRoom.cs" t="Include" />
           <e p="MoveRoom.cs" t="Include" />
+          <e p="PieceAnd2DSwitch.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="RoomDetect.cs" t="Include" />
         </e>

@@ -51,3 +51,6 @@ TagManager:
   - name: Player
     uniqueID: 2658431229
     locked: 0
+  - name: Robot
+    uniqueID: 3691880351
+    locked: 0

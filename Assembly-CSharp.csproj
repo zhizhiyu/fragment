@@ -57,8 +57,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraMove.cs" />
+    <Compile Include="Assets\Scripts\FollowCursor.cs" />
     <Compile Include="Assets\Scripts\GetRoom.cs" />
     <Compile Include="Assets\Scripts\MoveRoom.cs" />
+    <Compile Include="Assets\Scripts\PieceAnd2DSwitch.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\RoomDetect.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
