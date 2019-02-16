@@ -59,6 +59,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GetRoom.cs" />
     <Compile Include="Assets\Scripts\MoveRoom.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\RoomDetect.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/MyUnity/Fragment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

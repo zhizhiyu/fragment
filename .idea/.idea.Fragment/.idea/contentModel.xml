@@ -9,6 +9,8 @@
         <e p="Scripts" t="Include">
           <e p="GetRoom.cs" t="Include" />
           <e p="MoveRoom.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="RoomDetect.cs" t="Include" />
         </e>
       </e>
       <e p="Fragment.sln" t="IncludeFlat" />

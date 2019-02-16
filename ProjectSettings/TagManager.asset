@@ -17,7 +17,7 @@ TagManager:
   - PostProcessing
   - Piece
   - Room
-  - 
+  - Player
   - 
   - 
   - 
@@ -42,11 +42,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Piece
-    uniqueID: 1674238555
-    locked: 0
   - name: Real
     uniqueID: 1880267261
+    locked: 0
+  - name: Piece
+    uniqueID: 1674238555
     locked: 0
   - name: Player
     uniqueID: 2658431229
